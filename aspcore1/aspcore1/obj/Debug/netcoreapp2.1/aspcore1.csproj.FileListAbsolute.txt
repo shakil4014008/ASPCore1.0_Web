@@ -37,7 +37,6 @@ C:\Shakil\git\aspcore1\aspcore1\bin\Debug\netcoreapp2.1\aspcore1.dll
 C:\Shakil\git\aspcore1\aspcore1\bin\Debug\netcoreapp2.1\aspcore1.pdb
 C:\Shakil\git\aspcore1\aspcore1\bin\Debug\netcoreapp2.1\aspcore1.Views.dll
 C:\Shakil\git\aspcore1\aspcore1\bin\Debug\netcoreapp2.1\aspcore1.Views.pdb
-C:\Shakil\git\aspcore1\aspcore1\obj\Debug\netcoreapp2.1\aspcore1.csprojAssemblyReference.cache
 C:\Shakil\git\aspcore1\aspcore1\obj\Debug\netcoreapp2.1\aspcore1.csproj.CoreCompileInputs.cache
 C:\Shakil\git\aspcore1\aspcore1\obj\Debug\netcoreapp2.1\aspcore1.RazorAssemblyInfo.cache
 C:\Shakil\git\aspcore1\aspcore1\obj\Debug\netcoreapp2.1\aspcore1.RazorAssemblyInfo.cs
