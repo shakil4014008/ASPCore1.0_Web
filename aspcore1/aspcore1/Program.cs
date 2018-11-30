@@ -15,6 +15,7 @@ namespace aspcore1
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+            //hello world
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>

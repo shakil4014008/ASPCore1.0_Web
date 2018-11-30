@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shaki\\source\\repos\\aspcore1\\aspcore1\\aspcore1.csproj",
+      "projectUniqueName": "C:\\Shakil\\git\\aspcore1\\aspcore1\\aspcore1.csproj",
       "projectName": "aspcore1",
-      "projectPath": "C:\\Users\\shaki\\source\\repos\\aspcore1\\aspcore1\\aspcore1.csproj",
+      "projectPath": "C:\\Shakil\\git\\aspcore1\\aspcore1\\aspcore1.csproj",
       "packagesPath": "C:\\Users\\shaki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shaki\\source\\repos\\aspcore1\\aspcore1\\obj\\",
+      "outputPath": "C:\\Shakil\\git\\aspcore1\\aspcore1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
